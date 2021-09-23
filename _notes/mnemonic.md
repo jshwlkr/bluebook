@@ -1,0 +1,1 @@
+The mnemonic is a collection of my personal work-related notes.
